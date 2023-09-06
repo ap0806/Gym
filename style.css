@@ -1,0 +1,24 @@
+h1 {
+    /*Denna koden som bestämmer vilken linjesfärg ska vara */
+    color: orange;
+    /*Denna koden som bestämmer vilken bakgroundsfärg till linje ska vara */
+    background-color: black
+}
+
+h1 {
+    /*Denna koden som bästemmer höjd till färgen i h1*/
+    height: 45px;
+    /*Denna koden som bästemmer Bredden till färgen i h1*/
+    width: 110px;
+
+}
+
+h2 {
+    color: orange;
+    background-color: black;
+}
+
+h2 {
+    height: 45px;
+    width: 260px;
+}
