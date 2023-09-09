@@ -1,0 +1,110 @@
+html {
+    background-color: black;
+}
+
+
+h1 {
+    /*Denna koden som bestämmer vilken linjesfärg ska vara */
+    color: white;
+    /*Denna koden som bestämmer vilken bakgroundsfärg till linje ska vara */
+    background-color: black;
+}
+
+h1 {
+    /*Denna koden som bästemmer höjd till färgen i h1*/
+    height: 40px;
+    /*Denna koden som bästemmer Bredden till färgen i h1*/
+    width: 260px;
+
+    border: 2px solid orange;
+
+}
+
+h2 {
+    color: orange;
+    background-color: black;
+}
+
+h2 {
+    height: 35px;
+    width: 260px;
+    border: 2px solid orange;
+}
+
+a {
+    color: white;
+    border: 1px solid brown;
+
+}
+
+a {
+    background-color: black;
+    height: 35px;
+    width: 55px;
+    font-size: 20px;
+
+}
+
+h3 {
+    color: orange;
+    background-color: black;
+    border: 2px solid orange;
+
+}
+
+h3 {
+    height: 25px;
+    width: 65px;
+}
+
+li {
+    color: white;
+}
+
+
+#tx {
+    color: brown;
+    border: 1px solid white;
+}
+
+#tx {
+    width: 1150px;
+    height: 60px;
+}
+
+#xt {
+    color: brown;
+    border: 1px solid white;
+}
+
+#xt {
+    height: 60px;
+    width: 1150px;
+}
+
+#hx {
+    color: orange;
+    border: 1px solid white;
+}
+
+#hx {
+    width: 190px;
+    height: 30px;
+}
+
+#hed {
+    height: 50px;
+    width: 190px;
+}
+
+#hed {
+    color: white;
+    border: 1px solid brown;
+}
+
+#txt {
+    color: black;
+    background-color: white;
+    height: 4500px;
+    width: 1000px;
+}
